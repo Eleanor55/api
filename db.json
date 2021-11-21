@@ -1,30 +1,51 @@
 [
   {
     "id": 1,
-    "quote":"Guote 123",
+    "quote":"Our greatest fear should not be of failure but of succeeding at things in life that don’t really matter.",
     "url": "https://images.unsplash.com/photo-1520962922320-2038eebab146?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
       
     },
-
+  
 {
     "id": 2,
-    "quote":"Guote 456",
-    "url": "https://images.unsplash.com/photo-1500828131278-8de6878641b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    "quote":"All that is gold does not glitter, Not all those who wander are lost.",
+    "url": "https://images.unsplash.com/photo-1535666669445-e8c15cd2e7d9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
       
     },
 
 {
     "id": 3,
-    "quote":"Guote 789",
-    "url": "https://images.unsplash.com/photo-1600593830144-a29f2855730e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    "quote":"Be faithful in small things because it is in them that your strength lies.",
+    "url": "https://images.unsplash.com/photo-1500828131278-8de6878641b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+      
+    },
+
+{
+    "id": 4,
+    "quote":"It does not do well to dwell on dreams and forget to live.",
+    "url": "https://images.unsplash.com/photo-1571936804022-90d128047136?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80"
       
     },
   
 {
-    "id": 4,
-    "quote":"Guote 101112",
+    "id": 5,
+    "quote":"God never said that the journey would be easy, but He did say that the arrival would be worthwhile.",
     "url": "https://images.unsplash.com/photo-1599011750436-14bb1fb0ebe8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
       
+    },
+  
+  {
+    "id": 6,
+    "quote":"It is said that your life flashes before your eyes just before you die. That is true, it's called Life.",
+    "url": "https://images.unsplash.com/photo-1600151734404-a416ebc07d6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=436&q=80"
+      
+    },
+ {
+    "id": 7,
+    "quote":"Jesus looked at them and said, 'With man it is impossible, but not with God. For all things are possible with God.'",
+    "url": "https://images.unsplash.com/photo-1496611246382-3fbcd9b0ae7b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+      
     }
+  
 
 ]
